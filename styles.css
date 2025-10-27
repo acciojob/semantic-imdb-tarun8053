@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+body{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family:arial;
+}
+header{
+	font-size:33px;
+	text-align:center;
+	background:
+}
